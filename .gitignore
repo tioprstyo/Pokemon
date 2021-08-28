@@ -12,6 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
+*.hprof
 
 # Node
 node_modules
